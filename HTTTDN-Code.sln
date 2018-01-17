@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTTDN-Code", "HTTTDN-Code\HTTTDN-Code.csproj", "{B7788285-6968-4FF1-8B0A-9113C104C07E}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7788285-6968-4FF1-8B0A-9113C104C07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.Debug|Any CPU.Build.0 = DefaultBuild
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.DefaultBuild|Any CPU.ActiveCfg = DefaultBuild
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.DefaultBuild|Any CPU.Build.0 = DefaultBuild
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{72A1A6F7-69E6-4577-952D-A4D9FFFF6B4E}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

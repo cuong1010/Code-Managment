@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLMaModelStoreContainer" CdmEntityContainer="QLMaEntities">
+    <EntitySetMapping Name="LogDangNhaps">
+      <EntityTypeMapping TypeName="QLMaModel.LogDangNhap">
+        <MappingFragment StoreEntitySet="LogDangNhaps">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ThoiGianDN" ColumnName="ThoiGianDN" />
+          <ScalarProperty Name="IdND" ColumnName="IdND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogDangXuats">
+      <EntityTypeMapping TypeName="QLMaModel.LogDangXuat">
+        <MappingFragment StoreEntitySet="LogDangXuats">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ThoiGianDX" ColumnName="ThoiGianDX" />
+          <ScalarProperty Name="IdND" ColumnName="IdND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LSKhoas">
+      <EntityTypeMapping TypeName="QLMaModel.LSKhoa">
+        <MappingFragment StoreEntitySet="LSKhoas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdDTKhoa" ColumnName="IdDTKhoa" />
+          <ScalarProperty Name="ThoiGianKhoa" ColumnName="ThoiGianKhoa" />
+          <ScalarProperty Name="LiDoKhoa" ColumnName="LiDoKhoa" />
+          <ScalarProperty Name="SoNgayKhoa" ColumnName="SoNgayKhoa" />
+          <ScalarProperty Name="DoiTuong" ColumnName="DoiTuong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mas">
+      <EntityTypeMapping TypeName="QLMaModel.Ma">
+        <MappingFragment StoreEntitySet="Mas">
+          <ScalarProperty Name="IdMa" ColumnName="IdMa" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="ThoiGianKhoiTao" ColumnName="ThoiGianKhoiTao" />
+          <ScalarProperty Name="ThoiGianHetHan" ColumnName="ThoiGianHetHan" />
+          <ScalarProperty Name="ThoiGianLay" ColumnName="ThoiGianLay" />
+          <ScalarProperty Name="IDNguoiLay" ColumnName="IDNguoiLay" />
+          <ScalarProperty Name="IDNguoiTao" ColumnName="IDNguoiTao" />
+          <ScalarProperty Name="SoKiTu" ColumnName="SoKiTu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NguoiDungs">
+      <EntityTypeMapping TypeName="QLMaModel.NguoiDung">
+        <MappingFragment StoreEntitySet="NguoiDungs">
+          <ScalarProperty Name="IdND" ColumnName="IdND" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TenNhanVien" ColumnName="TenNhanVien" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="ChuThich" ColumnName="ChuThich" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

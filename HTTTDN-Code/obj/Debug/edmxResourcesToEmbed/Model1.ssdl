@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLMaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LogDangNhaps">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ThoiGianDN" Type="datetime" Nullable="false" />
+    <Property Name="IdND" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LogDangXuats">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ThoiGianDX" Type="datetime" Nullable="false" />
+    <Property Name="IdND" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LSKhoas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdDTKhoa" Type="int" Nullable="false" />
+    <Property Name="ThoiGianKhoa" Type="datetime" Nullable="false" />
+    <Property Name="LiDoKhoa" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SoNgayKhoa" Type="int" />
+    <Property Name="DoiTuong" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mas">
+    <Key>
+      <PropertyRef Name="IdMa" />
+    </Key>
+    <Property Name="IdMa" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NoiDung" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TrangThai" Type="int" Nullable="false" />
+    <Property Name="ThoiGianKhoiTao" Type="datetime" Nullable="false" />
+    <Property Name="ThoiGianHetHan" Type="datetime" Nullable="false" />
+    <Property Name="ThoiGianLay" Type="datetime" />
+    <Property Name="IDNguoiLay" Type="int" />
+    <Property Name="IDNguoiTao" Type="int" Nullable="false" />
+    <Property Name="SoKiTu" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NguoiDungs">
+    <Key>
+      <PropertyRef Name="IdND" />
+    </Key>
+    <Property Name="IdND" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaiKhoan" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MatKhau" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TenNhanVien" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ChucVu" Type="bit" Nullable="false" />
+    <Property Name="TrangThai" Type="bit" Nullable="false" />
+    <Property Name="ChuThich" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_NguoiDungLogDangNhap">
+    <End Role="NguoiDungs" Type="Self.NguoiDungs" Multiplicity="1" />
+    <End Role="LogDangNhaps" Type="Self.LogDangNhaps" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="LogDangNhaps">
+        <PropertyRef Name="IdND" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NguoiDungLogDangXuat">
+    <End Role="NguoiDungs" Type="Self.NguoiDungs" Multiplicity="1" />
+    <End Role="LogDangXuats" Type="Self.LogDangXuats" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="LogDangXuats">
+        <PropertyRef Name="IdND" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NguoiDungMa">
+    <End Role="NguoiDungs" Type="Self.NguoiDungs" Multiplicity="1" />
+    <End Role="Mas" Type="Self.Mas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="Mas">
+        <PropertyRef Name="IDNguoiTao" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLMaModelStoreContainer">
+    <EntitySet Name="LogDangNhaps" EntityType="Self.LogDangNhaps" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LogDangXuats" EntityType="Self.LogDangXuats" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LSKhoas" EntityType="Self.LSKhoas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mas" EntityType="Self.Mas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NguoiDungs" EntityType="Self.NguoiDungs" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_NguoiDungLogDangNhap" Association="Self.FK_NguoiDungLogDangNhap">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="LogDangNhaps" EntitySet="LogDangNhaps" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NguoiDungLogDangXuat" Association="Self.FK_NguoiDungLogDangXuat">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="LogDangXuats" EntitySet="LogDangXuats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NguoiDungMa" Association="Self.FK_NguoiDungMa">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="Mas" EntitySet="Mas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

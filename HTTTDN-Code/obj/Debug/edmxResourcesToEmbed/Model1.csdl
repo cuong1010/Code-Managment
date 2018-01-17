@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLMaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LogDangNhap">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ThoiGianDN" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IdND" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="NguoiDung" Relationship="Self.FK_NguoiDungLogDangNhap" FromRole="LogDangNhaps" ToRole="NguoiDungs" />
+  </EntityType>
+  <EntityType Name="LogDangXuat">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ThoiGianDX" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IdND" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="NguoiDung" Relationship="Self.FK_NguoiDungLogDangXuat" FromRole="LogDangXuats" ToRole="NguoiDungs" />
+  </EntityType>
+  <EntityType Name="LSKhoa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdDTKhoa" Type="Int32" Nullable="false" />
+    <Property Name="ThoiGianKhoa" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="LiDoKhoa" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SoNgayKhoa" Type="Int32" />
+    <Property Name="DoiTuong" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ma">
+    <Key>
+      <PropertyRef Name="IdMa" />
+    </Key>
+    <Property Name="IdMa" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TrangThai" Type="Int32" Nullable="false" />
+    <Property Name="ThoiGianKhoiTao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ThoiGianHetHan" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ThoiGianLay" Type="DateTime" Precision="3" />
+    <Property Name="IDNguoiLay" Type="Int32" />
+    <Property Name="IDNguoiTao" Type="Int32" Nullable="false" />
+    <Property Name="SoKiTu" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="NguoiDung" Relationship="Self.FK_NguoiDungMa" FromRole="Mas" ToRole="NguoiDungs" />
+  </EntityType>
+  <EntityType Name="NguoiDung">
+    <Key>
+      <PropertyRef Name="IdND" />
+    </Key>
+    <Property Name="IdND" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TaiKhoan" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenNhanVien" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ChucVu" Type="Boolean" Nullable="false" />
+    <Property Name="TrangThai" Type="Boolean" Nullable="false" />
+    <Property Name="ChuThich" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="LogDangNhaps" Relationship="Self.FK_NguoiDungLogDangNhap" FromRole="NguoiDungs" ToRole="LogDangNhaps" />
+    <NavigationProperty Name="LogDangXuats" Relationship="Self.FK_NguoiDungLogDangXuat" FromRole="NguoiDungs" ToRole="LogDangXuats" />
+    <NavigationProperty Name="Mas" Relationship="Self.FK_NguoiDungMa" FromRole="NguoiDungs" ToRole="Mas" />
+  </EntityType>
+  <Association Name="FK_NguoiDungLogDangNhap">
+    <End Role="NguoiDungs" Type="Self.NguoiDung" Multiplicity="1" />
+    <End Role="LogDangNhaps" Type="Self.LogDangNhap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="LogDangNhaps">
+        <PropertyRef Name="IdND" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NguoiDungLogDangXuat">
+    <End Role="NguoiDungs" Type="Self.NguoiDung" Multiplicity="1" />
+    <End Role="LogDangXuats" Type="Self.LogDangXuat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="LogDangXuats">
+        <PropertyRef Name="IdND" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NguoiDungMa">
+    <End Role="NguoiDungs" Type="Self.NguoiDung" Multiplicity="1" />
+    <End Role="Mas" Type="Self.Ma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NguoiDungs">
+        <PropertyRef Name="IdND" />
+      </Principal>
+      <Dependent Role="Mas">
+        <PropertyRef Name="IDNguoiTao" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLMaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LogDangNhaps" EntityType="Self.LogDangNhap" />
+    <EntitySet Name="LogDangXuats" EntityType="Self.LogDangXuat" />
+    <EntitySet Name="LSKhoas" EntityType="Self.LSKhoa" />
+    <EntitySet Name="Mas" EntityType="Self.Ma" />
+    <EntitySet Name="NguoiDungs" EntityType="Self.NguoiDung" />
+    <AssociationSet Name="FK_NguoiDungLogDangNhap" Association="Self.FK_NguoiDungLogDangNhap">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="LogDangNhaps" EntitySet="LogDangNhaps" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NguoiDungLogDangXuat" Association="Self.FK_NguoiDungLogDangXuat">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="LogDangXuats" EntitySet="LogDangXuats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NguoiDungMa" Association="Self.FK_NguoiDungMa">
+      <End Role="NguoiDungs" EntitySet="NguoiDungs" />
+      <End Role="Mas" EntitySet="Mas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

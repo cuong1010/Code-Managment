@@ -1,0 +1,149 @@
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.CoreCompileInputs.cache
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\TAILIEUCNTT\HỆ THỐNG THÔNG TIN DOANH NGHIỆP\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Form1.resources
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\CNTT\HTTT doanh nghiep\dung\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Form1.resources
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+C:\Users\Giang\Downloads\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\CNTT\HTTT doanh nghiep\Hiển\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code-New\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.pdb
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csprojResolveAssemblyReference.cache
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Khoa.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Login.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Nhanvien.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Quanli.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code2\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.csproj.GenerateResource.Cache
+D:\CNTT\HTTT doanh nghiep\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.SudungMa.resources
+C:\Users\ASUS_BAC\Desktop\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN_Code.SudungMa.resources
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\HTTTDN-Code\bin\Debug\HTTTDN-Code.exe.config
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.exe
+D:\DUNG\HOC KI 1 NAM 4\HTTTDN\đồ án\HTTTDN-Code\HTTTDN-Code\HTTTDN-Code\obj\Debug\HTTTDN-Code.pdb

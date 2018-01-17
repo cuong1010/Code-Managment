@@ -1,0 +1,14 @@
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\bin\Debug\HTTTDN-N1.exe.config
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN_Code.KhoaMa.resources
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN_Code.Login.resources
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN_Code.Nhanvien.resources
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN_Code.Quanli.resources
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN-N1.csproj.GenerateResource.Cache
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN-N1.csprojResolveAssemblyReference.cache
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN_Code.Properties.Resources.resources
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\bin\Debug\HTTTDN-N1.exe
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\bin\Debug\HTTTDN-N1.pdb
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\bin\Debug\EntityFramework.dll
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\bin\Debug\EntityFramework.xml
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN-N1.exe
+D:\CNTT\HTTTDN\HTTTDN-N1\HTTTDN-N1\obj\Debug\HTTTDN-N1.pdb
